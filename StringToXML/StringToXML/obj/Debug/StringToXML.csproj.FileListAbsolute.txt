@@ -1,0 +1,21 @@
+C:\Users\bbowden\Documents\Visual Studio 2008\Projects\StringToXML\StringToXML\bin\Debug\StringToXML.dll
+C:\Users\bbowden\Documents\Visual Studio 2008\Projects\StringToXML\StringToXML\bin\Debug\StringToXML.pdb
+C:\Users\bbowden\Documents\Visual Studio 2008\Projects\StringToXML\StringToXML\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\Users\bbowden\Documents\Visual Studio 2008\Projects\StringToXML\StringToXML\bin\Debug\SimplSharpHelperInterface.dll
+C:\Users\bbowden\Documents\Visual Studio 2008\Projects\StringToXML\StringToXML\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bbowden\Documents\Visual Studio 2008\Projects\StringToXML\StringToXML\obj\Debug\StringToXML.dll
+C:\Users\bbowden\Documents\Visual Studio 2008\Projects\StringToXML\StringToXML\obj\Debug\StringToXML.pdb
+C:\_Work\Crestron Stuff\SIMPL# Dev\StringToXML\StringToXML\bin\Debug\StringToXML.dll
+C:\_Work\Crestron Stuff\SIMPL# Dev\StringToXML\StringToXML\bin\Debug\StringToXML.pdb
+C:\_Work\Crestron Stuff\SIMPL# Dev\StringToXML\StringToXML\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\_Work\Crestron Stuff\SIMPL# Dev\StringToXML\StringToXML\bin\Debug\SimplSharpHelperInterface.dll
+C:\_Work\Crestron Stuff\SIMPL# Dev\StringToXML\StringToXML\obj\Debug\ResolveAssemblyReference.cache
+C:\_Work\Crestron Stuff\SIMPL# Dev\StringToXML\StringToXML\obj\Debug\StringToXML.dll
+C:\_Work\Crestron Stuff\SIMPL# Dev\StringToXML\StringToXML\obj\Debug\StringToXML.pdb
+C:\_Work\Projects\Platinum Exam Crestron\SIMPL#\Part 4 - GitHub\StringToXML\bin\Debug\StringToXML.dll
+C:\_Work\Projects\Platinum Exam Crestron\SIMPL#\Part 4 - GitHub\StringToXML\bin\Debug\StringToXML.pdb
+C:\_Work\Projects\Platinum Exam Crestron\SIMPL#\Part 4 - GitHub\StringToXML\bin\Debug\SimplSharpCustomAttributesInterface.dll
+C:\_Work\Projects\Platinum Exam Crestron\SIMPL#\Part 4 - GitHub\StringToXML\bin\Debug\SimplSharpHelperInterface.dll
+C:\_Work\Projects\Platinum Exam Crestron\SIMPL#\Part 4 - GitHub\StringToXML\obj\Debug\ResolveAssemblyReference.cache
+C:\_Work\Projects\Platinum Exam Crestron\SIMPL#\Part 4 - GitHub\StringToXML\obj\Debug\StringToXML.dll
+C:\_Work\Projects\Platinum Exam Crestron\SIMPL#\Part 4 - GitHub\StringToXML\obj\Debug\StringToXML.pdb
